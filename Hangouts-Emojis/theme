@@ -4,54 +4,54 @@ Icon=1f601.png
 Author=Onse (https://github.com/0nse), Steffen Vogel (https://github.com/stv0g/unicode-emoji/), Cal Henderson (https://github.com/iamcal), Trevor Turk (https://github.com/trevorturk)
 
 [default]
-1f600.png 😀 :D  :-D
+1f600.png 😀 :D :-D
 1f601.png	😁 ^_^
-1f602.png	😂 xD  :weyand:
-1f603.png	😃 :)  :-)
+1f602.png	😂 xD :weyand:
+1f603.png	😃 :) :-)
 1f604.png	😄
 1f605.png	😅 ^_^;; :insane: :-[
 1f606.png	😆
-1f607.png 😇 O:-) :corny:  :holy:  O=)  O:)  :engel:
+1f607.png 😇 O:-) :corny: :holy: O=) O:) :engel:
 1f608.png 😈
-1f609.png	😉 ;)  ;-)
+1f609.png	😉 ;) ;-)
 1f616.png 😖
 1f60a.png	😊
 1f60b.png	😋
 1f60c.png	😌
 1f60d.png 😍
-1f60e.png 😎  B-)  8-)
+1f60e.png 😎 B-) 8-)
 1f60f.png	😏
-1f610.png 😐 :|  :-|  :-S
+1f610.png 😐 :| :-| :-S
 1f611.png 😑 -.- -_-
-1f612.png 😒 <.<  >.>  <_<  >_>  &gt;_&gt; &lt;_&lt; :rolleyes:
+1f612.png 😒 <.< >.> <_< >_> &gt;_&gt; &lt;_&lt; :rolleyes:
 1f613.png	😓
 1f614.png	😔 u_u
-1f615.png 😕 :\\  :/  :-/  :-\\
+1f615.png 😕 :\\ :/ :-/ :-\\
 1f616.png	😖
-1f617.png 😗 :*  :-*  (k)  :kiss:  :-{}
-1f618.png	😘 ;-*  ;*
+1f617.png 😗 :* :-* (k) :kiss: :-{}
+1f618.png	😘 ;-* ;*
 1f619.png	😙
 1f61a.png 😚
-1f61b.png 😛  :-P  :P
+1f61b.png 😛 :-P :P
 1f61c.png	😜
 1f61d.png	😝
-1f61e.png 😞 :(  :-(
+1f61e.png 😞 :( :-(
 1f61f.png	😟
 1f620.png	😠
 1f621.png	😡
-1f622.png	😢 T_T  T.T ;_;
+1f622.png	😢 T_T T.T ;_;
 1f623.png	😣
 1f624.png	😤
 1f625.png	😥
-1f626.png	😦  D:
+1f626.png	😦
 1f627.png	😧
 1f628.png	😨
 1f629.png	😩
 1f62a.png	😪
 1f62b.png	😫
-1f62c.png	😫
+1f62c.png	😫 D:
 1f62d.png	😭
-1f62e.png 😮  :o  :-o  :oah:
+1f62e.png 😮 :o :-o :oah:
 1f62f.png 😯
 1f630.png	😰
 1f631.png	😱
@@ -242,11 +242,11 @@ Author=Onse (https://github.com/0nse), Steffen Vogel (https://github.com/stv0g/u
 25fe.png	◾
 2600.png	☀
 2601.png	☁
-260e.png  ☎
-2611.png  ☑
-2614.png  ☔
-2615.png  ☕
-261d.png  ☝
+260e.png ☎
+2611.png ☑
+2614.png ☔
+2615.png ☕
+261d.png ☝
 263a.png	☺
 2648.png	♈
 2649.png	♉
@@ -492,7 +492,7 @@ Author=Onse (https://github.com/0nse), Steffen Vogel (https://github.com/stv0g/u
 1f41a.png	🐚
 1f41b.png	🐛
 1f41c.png	🐜
-1f41d.png	🐝  -<@%
+1f41d.png	🐝 -<@%
 1f41e.png	🐞
 1f41f.png	🐟
 1f420.png	🐠
@@ -611,7 +611,7 @@ Author=Onse (https://github.com/0nse), Steffen Vogel (https://github.com/stv0g/u
 1f499.png	💙
 1f49a.png	💚
 1f49b.png	💛
-1f49c.png 💜  <3  (l)  *GIVE_HEART*
+1f49c.png 💜 <3 (l) *GIVE_HEART*
 1f49d.png	💝
 1f49e.png	💞
 1f49f.png	💟

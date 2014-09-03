@@ -4,11 +4,11 @@ Icon=1f601.png
 Author=Onse (https://github.com/0nse), Steffen Vogel (https://github.com/stv0g/unicode-emoji/), Cal Henderson (https://github.com/iamcal), Trevor Turk (https://github.com/trevorturk)
 
 [default]
-1f600.png 😀 :D :-D
+1f600.png 😀 :D
 1f601.png	😁 ^_^
 1f602.png	😂 xD :weyand:
 1f603.png	😃 :) :-)
-1f604.png	😄
+1f604.png	😄 :-D
 1f605.png	😅 ^_^;; :insane: :-[
 1f606.png	😆
 1f607.png 😇 O:-) :corny: :holy: O=) O:) :engel:
@@ -31,9 +31,9 @@ Author=Onse (https://github.com/0nse), Steffen Vogel (https://github.com/stv0g/u
 1f617.png 😗 :* :-* (k) :kiss: :-{}
 1f618.png	😘 ;-* ;*
 1f619.png	😙
-1f61a.png 😚
+1f61a.png 😚 =*
 1f61b.png 😛 :-P :P
-1f61c.png	😜
+1f61c.png	😜 ;-P
 1f61d.png	😝
 1f61e.png 😞 :( :-(
 1f61f.png	😟
@@ -636,6 +636,8 @@ Author=Onse (https://github.com/0nse), Steffen Vogel (https://github.com/stv0g/u
 1f4b3.png	💳
 1f4b4.png	💴
 1f4b5.png	💵
+1f4b6.png	💶
+1f4b7.png	💷
 1f4b8.png	💸
 1f4b9.png	💹
 1f4ba.png	💺
